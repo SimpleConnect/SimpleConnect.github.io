@@ -1,3 +1,4 @@
 a.intro, a.intro:visited, a.intro:hover, a.intro:active {
-  color: inherit;
+  text-decoration: underline;
+  color: #e74124;
 }
