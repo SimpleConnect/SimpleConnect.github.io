@@ -2,3 +2,6 @@ a.intro, a.intro:visited, a.intro:hover, a.intro:active {
   text-decoration: underline;
   color: #e74124;
 }
+
+.header h1.logo a {
+    max-width: 255px;
