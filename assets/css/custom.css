@@ -5,3 +5,7 @@ a.intro, a.intro:visited, a.intro:hover, a.intro:active {
 
 .header h1.logo a {
     max-width: 255px;
+    
+.bullet ul.a {
+    list-style-type: circle;
+}
