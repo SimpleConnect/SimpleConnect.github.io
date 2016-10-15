@@ -215,7 +215,7 @@ select {
   text-align: center;
   line-height: 1.4;
   max-width: 155px;
-  background: #ec6952;
+  background: #fff;
   -webkit-border-top-right-radius: 0;
   -webkit-border-bottom-right-radius: 4px;
   -webkit-border-bottom-left-radius: 4px;
@@ -3286,7 +3286,7 @@ select {
     -moz-background-clip: padding;
     -webkit-background-clip: padding-box;
     background-clip: padding-box;
-    color: #ec6952;
+    color: #fff;
     background: #fff;
     padding-left: 0;
     padding-top: 25px;
