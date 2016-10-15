@@ -525,10 +525,10 @@ select {
   font-size: 18px;
 }
 .section-on-bg .title {
-  color: #ec6952;
+  color: #fff;
 }
 .section-on-bg .intro {
-  color: #ec6952;
+  color: #fff;
   -webkit-opacity: 0.8;
   -moz-opacity: 0.8;
   opacity: 0.8;
