@@ -210,7 +210,7 @@ select {
 }
 .header h1.logo a {
   color: #fff;
-  padding: 15px 30px;
+  padding: 15px 15px;
   display: inline-block;
   text-align: center;
   line-height: 1.4;
@@ -525,10 +525,10 @@ select {
   font-size: 18px;
 }
 .section-on-bg .title {
-  color: #fff;
+  color: #ec6952;
 }
 .section-on-bg .intro {
-  color: #fff;
+  color: #ec6952;
   -webkit-opacity: 0.8;
   -moz-opacity: 0.8;
   opacity: 0.8;
