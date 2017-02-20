@@ -9,7 +9,7 @@ a.intro, a.intro:visited, a.intro:hover, a.intro:active {
 .bullet ul.a {
     list-style-type: circle;
 }
-p.intro.text-center {
+p.intro.text-center-custom {
     max-width: 700px;
     margin: 0 auto;
     margin-bottom: 60px;
