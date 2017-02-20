@@ -16,4 +16,5 @@ p.intro-custom.text-center {
     text-align: center;
     color: #666;
     font-size: 24px;
+    box-sizing: border-box;
 }
