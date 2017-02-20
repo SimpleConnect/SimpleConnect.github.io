@@ -521,8 +521,8 @@ select {
   margin: 0 auto;
   margin-bottom: 60px;
   text-align: center;
-  color: #999;
-  font-size: 18px;
+  color: #666; /* orig #999 */ 
+  font-size: 24px; /* orig 18px */
 }
 .section-on-bg .title {
   color: #fff;
